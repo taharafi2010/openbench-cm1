@@ -70,4 +70,3 @@ The **two-fold ratio test** needs no standards of known concentration. Make a st
 
 T. Rafi, *OpenBench CM1: an open-source double-beam LED colorimeter, and a calibration-free dilution test showing that spectral bandwidth, not noise, limits its linear range*, preprint, 2026. https://openbench.oesimracing.com
 
-The firmware was written with the help of an AI assistant (Claude, Anthropic). The design, build and every measurement are the author's own; see the declaration in the preprint on the project site.
