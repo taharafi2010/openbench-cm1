@@ -1,12 +1,14 @@
 # OpenBench CM1
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24323813.svg)](https://doi.org/10.5281/zenodo.24323813)
+
 by **Taha Rafi**
 
 An open-source, 3D-printed double-beam LED colorimeter that costs about **£13** in parts, with firmware that measures and calibrates each copy of the instrument by itself.
 
 ![OpenBench CM1](docs/img/openbench_cm1.jpg)
 
-**Preprint and project site:** [openbench.oesimracing.com](https://openbench.oesimracing.com)
+**Paper:** [doi.org/10.5281/zenodo.24323897](https://doi.org/10.5281/zenodo.24323897) · **Project site:** [openbench.oesimracing.com](https://openbench.oesimracing.com)
 
 ## What it does
 
@@ -68,5 +70,7 @@ The **two-fold ratio test** needs no standards of known concentration. Make a st
 
 ## Citation
 
-T. Rafi, *OpenBench CM1: an open-source double-beam LED colorimeter, and a calibration-free dilution test showing that spectral bandwidth, not noise, limits its linear range*, preprint, 2026. https://openbench.oesimracing.com
+T. Rafi, *OpenBench CM1: an open-source double-beam LED colorimeter, and a calibration-free dilution test showing that spectral bandwidth, not noise, limits its linear range*, Zenodo, 2026. https://doi.org/10.5281/zenodo.24323897
+
+Design files, firmware and data: T. Rafi, *OpenBench CM1* (v1.0.0), Zenodo, 2026. https://doi.org/10.5281/zenodo.24323813
 
