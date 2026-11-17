@@ -1,0 +1,17 @@
+designator,component,qty,unit_cost_gbp,total_gbp,source,notes
+U1,Arduino Nano clone (ATmega328P; CH340),1,4.00,4.00,AliExpress,estimate (already owned)
+U2,MCP6002-I/P dual op-amp,1,0.32,0.32,AliExpress,
+U3,ADS1115 16-bit ADC module,1,1.55,1.55,AliExpress,
+U4,1.3in 128x64 OLED (SH1106; I2C),1,2.72,2.72,AliExpress,
+D1 D2,BPW34 silicon PIN photodiode,2,0.50,1.00,AliExpress,
+D3,White LED 5 mm water-clear,1,0.02,0.02,owned stock,estimate
+SW1,EC11 rotary encoder with push switch,1,0.44,0.44,AliExpress,
+R1,Resistor 150 ohm,1,0.01,0.01,owned stock,LED current
+Rf1 Rf2,Resistors 100 kohm and 1 Mohm,2,0.01,0.02,owned stock,TIA feedback
+C1,Ceramic capacitor 100 nF (104),1,0.02,0.02,AliExpress,op-amp decoupling
+Cf x2,Ceramic capacitor 10 nF (103),2,0.015,0.03,AliExpress,TIA feedback
+PCB1,Prototype board 5 x 7 cm,1,0.44,0.44,AliExpress,
+F1,Red theatrical gel filter (~1 cm2),1,0.01,0.01,AliExpress,
+-,PLA filament black and white (~120 g),1,1.80,1.80,owned stock,estimate
+-,Hook-up wire; glue; USB cable,1,0.50,0.50,owned stock,estimate
+,TOTAL,,,12.88,,
