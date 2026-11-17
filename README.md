@@ -1,6 +1,6 @@
 # OpenBench CM1
 
-by **Taha Rafi** · Sir Thomas Rich's School, Cheltenham, UK
+by **Taha Rafi**
 
 An open-source, 3D-printed double-beam LED colorimeter that costs about **£13** in parts, with firmware that measures and calibrates each copy of the instrument by itself.
 
